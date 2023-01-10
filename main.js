@@ -10175,7 +10175,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* eslint-disable prettier/prettier */
 const ip = '117.2.198.251'; //45.76.180.157
-const port = '3000';
+const port = '3001';
 const localUrl = `http://${ip}:${port}/api/`;
 const environment = {
     production: true
@@ -10196,15 +10196,14 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "environment": () => (/* binding */ environment),
 /* harmony export */   "localUrl": () => (/* binding */ localUrl)
 /* harmony export */ });
-/* eslint-disable prettier/prettier */
 // This file can be replaced during build by using the `fileReplacements` array.
 // `ng build` replaces `environment.ts` with `environment.prod.ts`.
 // The list of file replacements can be found in `angular.json`.
-const ip = '1.117.181.242';
-const port = '80';
+const ip = '117.2.198.251';
+const port = '3001';
 const localUrl = `http://${ip}:${port}`;
 const environment = {
-    production: false
+    production: true
 };
 /*
  * For easier debugging in development mode, you can import the following file
