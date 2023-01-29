@@ -1584,6 +1584,8 @@ Software.
 ng-zorro-antd
 MIT
 
+ng-zorro-antd-mobile
+
 ngx-color-picker
 MIT
 
